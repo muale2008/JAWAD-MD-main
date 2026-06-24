@@ -30,7 +30,7 @@ let handler = async function (m, { conn, usedPrefix }) {
 
     // Bot info header
     const botInfo = `
-╭━━━〔 *SAINT_ZENIN-MD* 〕━━━┈⊷
+╭━━━〔 *STRANGE_EVEL-MD* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *LAWDTechX*
 ┃★│ User : *${m.pushName || 'User'}*
