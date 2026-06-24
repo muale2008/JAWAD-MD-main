@@ -1,7 +1,7 @@
 {
-    "name": "JAWAD-MD",
+    "name": "STRANGE_EVEL-MD",
     "version": "2.1.0",
-    "description": "Fast, Smart, and Packed with Features. Meet JAWAD-MD – Your Ultimate WhatsApp Bot",
+    "description": "Fast, Smart, and Packed with Features. Meet STRANGE_EVEL-MD – Your Ultimate WhatsApp Bot",
     "main": "jawadik.js",
     "type": "module",
     "directories": {
@@ -17,13 +17,13 @@
         "test": "node server.js"
     },
   "keywords": ["jawad-md", "whatsapp-bot", "whatsapp md bot"],
-    "homepage": "https://github.com/JawadTechXD/JAWAD-MD",
+    "homepage": "https://github.com/muale2008/JAWAD-MD",
     "author": {
-        "name": "JawadTechXD"
+        "name": "EVELTechXD"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JawadTechXD/JAWAD-MD.git"
+        "url": "git+https://github.com/muale/JAWAD-MD.git"
     },
     "bugs": {
         "url": "https://github.com/JawadTechXD/JAWAD-MD/issues"
