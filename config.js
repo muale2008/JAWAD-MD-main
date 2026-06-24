@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename)
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "233206777968"
+const ownervb = process.env.OWNERS || "263715125771"
 
 
 const ownerlist = ownervb.split(';');
@@ -26,9 +26,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233206777968', '233206777968']
-global.prems = ['233206777968', '233206777968']
-global.allowed = ['233206777968', '233206777968']
+global.mods = ['263715125771', '263715125771']
+global.prems = ['263715125771', '263715125771']
+global.allowed = ['263715125771', '263715125771']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -78,8 +78,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'SAINT_ZENIN-MD'
-global.author = 'SAINT_ZENIN-MD'
+global.packname = 'STRANGE_EVEL-MD'
+global.author = 'STRANGE_EVEL-MD'
 global.menuvid = 'https://files.catbox.moe/74kdxe.mp4'
 global.igfg = 'https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j'
 global.dygp = 'https://whatsapp.com/channel/0029Vb5WgwB8V0tnVsqSmC2N'
