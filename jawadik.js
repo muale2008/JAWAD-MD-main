@@ -7,7 +7,7 @@ import path from 'path'
 import { fileURLToPath } from 'url';
 
 figlet(
-  'SAINT_ZENIN-MD',
+  'STRANGE_EVEL-MD',
   {
     font: 'Ghost',
     horizontalLayout: 'default',
