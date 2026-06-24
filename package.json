@@ -17,13 +17,13 @@
         "test": "node server.js"
     },
   "keywords": ["jawad-md", "whatsapp-bot", "whatsapp md bot"],
-    "homepage": "https://github.com/muale2008/JAWAD-MD",
+    "homepage": "https://github.com/muale2008/JAWAD-MD-main",
     "author": {
         "name": "EVELTechXD"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/muale/JAWAD-MD.git"
+        "url": "git+https://github.com/muale/JAWAD-MD-main.git"
     },
     "bugs": {
         "url": "https://github.com/JawadTechXD/JAWAD-MD/issues"
